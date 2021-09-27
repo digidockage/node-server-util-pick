@@ -1,0 +1,24 @@
+{
+  "name": "@esultocom/node-server-util-pick",
+  "version": "1.0.0",
+  "description": "Nodejs common server util pick.",
+  "author": {
+    "name": "Sgobbi Federico",
+    "email": "fsgobbi@esulto.com",
+    "url": "https://www.esulto.com"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esultocom/node-server-util-pick.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esultocom/node-server-util-pick/issues"
+  },
+  "homepage": "https://github.com/esultocom/node-server-util-pick#readme",
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=6.0.0"
+  }
+}
