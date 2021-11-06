@@ -11,12 +11,12 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/esultocom/node-server-util-pick.git"
+    "url": "git+https://gitlab.com/esultocom/js-modules/node-server-util-pick.git"
   },
   "bugs": {
-    "url": "https://github.com/esultocom/node-server-util-pick/issues"
+    "url": "https://gitlab.com/esultocom/js-modules/node-server-util-pick/issues"
   },
-  "homepage": "https://github.com/esultocom/node-server-util-pick#readme",
+  "homepage": "https://gitlab.com/esultocom/js-modules/node-server-util-pick#readme",
   "engines": {
     "node": ">=12.0.0",
     "npm": ">=6.0.0"
