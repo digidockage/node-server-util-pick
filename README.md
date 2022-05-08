@@ -3,5 +3,5 @@ Nodejs common server util pick.
 
 ### Install
 ```
-npm install @esultocom/node-server-util-pick
+npm install @digidockage/node-server-util-pick
 ```

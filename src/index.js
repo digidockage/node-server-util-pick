@@ -8,7 +8,7 @@
  *                                                                                                 *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-// * * * * * * * * The code
+// > > > > > > > > > > > > > > > > > > > > > > > The code
 const pick = (object, keys) => {
   return keys.reduce((obj, key) => {
     if (object && Object.prototype.hasOwnProperty.call(object, key)) {
@@ -19,5 +19,5 @@ const pick = (object, keys) => {
   }, {});
 };
 
-// * * * * * * * * Module export
+// > > > > > > > > > > > > > > > > > > > > > > > Module exports
 module.exports = pick;

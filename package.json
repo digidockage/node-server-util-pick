@@ -1,24 +1,18 @@
 {
-  "name": "@esultocom/node-server-util-pick",
+  "name": "@digidockage/node-server-util-pick",
   "version": "1.0.0",
   "description": "Nodejs common server util pick.",
-  "author": {
-    "name": "Sgobbi Federico",
-    "email": "fsgobbi@esulto.com",
-    "url": "https://www.esulto.com"
-  },
-  "license": "MIT",
   "main": "src/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/esultocom/js-modules/node-server-util-pick.git"
-  },
-  "bugs": {
-    "url": "https://gitlab.com/esultocom/js-modules/node-server-util-pick/issues"
-  },
-  "homepage": "https://gitlab.com/esultocom/js-modules/node-server-util-pick#readme",
   "engines": {
     "node": ">=12.0.0",
     "npm": ">=6.0.0"
-  }
+  },
+  "author": {
+    "name": "Sgobbi Federico",
+    "email": "federico@sgobbi.it",
+    "url": "https://digidockage.com"
+  },
+  "homepage": "https://github.com/digidockage/node-server-util-pick",
+  "license": "MIT",
+  "repository": "https://github.com/digidockage/node-server-util-pick.git"
 }
